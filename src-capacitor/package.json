@@ -1,0 +1,11 @@
+{
+    "name": "todo",
+    "version": "0.0.1",
+    "description": "Todo List",
+    "author": "Aziza",
+    "private": true,
+    "dependencies": {
+        "@capacitor/cli": "^2.0.0",
+        "@capacitor/core": "^2.0.0"
+    }
+}
